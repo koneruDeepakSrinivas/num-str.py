@@ -12,7 +12,6 @@ root.geometry("650x400")
 
 num = StringVar()
 
-# Adding title
 title = Label(root, text="Number to Words converter",
                fg="Blue", font=("Arial", 20, 'bold')).place(x=220, y=10)
 

@@ -1,5 +1,4 @@
 #this project is about converting from number to integer
-
 import num2words as n2w
 from tkinter import *
 
